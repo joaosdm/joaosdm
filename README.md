@@ -1,6 +1,4 @@
 ### Hey👋
-
-## Me chamo João Henrique, sou Analista de Sistemas e um grande apaixonado por tecnológia!
 <div align="center">
   <a href="https://github.com/joaosdm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosdm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
