@@ -1,10 +1,36 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://4waysolution.com/banner.png" alt="João Henrique | Made by 4Way Solution" />
+</p>
+
+---
+
 ### Olá! Eu sou o João — unindo Tecnologia, Psicologia e Liderança para criar impacto real.
 
 Sou formado em **Análise e Desenvolvimento de Sistemas**, com uma paixão por resolver problemas de forma estratégica e humana. Minha jornada me levou além do código: mergulhei nos estudos de **Liderança**, **Coaching** e agora estou me dedicando à **Psicologia**, uma área que sempre me fascinou.
 
-Meu objetivo é integrar esses conhecimentos para desenvolver soluções que impactem **pessoas e organizações de maneira significativa**.
+Atuo como **desenvolvedor full stack**, criando soluções do zero — da concepção à entrega. Meu objetivo é integrar conhecimentos técnicos e humanos para desenvolver produtos que impactem **pessoas e organizações de maneira significativa**.
 
-Atualmente, crio projetos sob a marca pessoal **[4Way Solution](https://4waysolution.com)** — um espaço onde tecnologia encontra propósito.
+Atualmente, produzo projetos com a assinatura **[4Way Solution](https://4waysolution.com)** — onde tecnologia encontra propósito.
+
+---
+
+### Tecnologias que uso no dia a dia
+
+#### Front-end
+<div align="center">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS"/>
+</div>
+
+#### Back-end
+<div align="center">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#"/>
+</div>
 
 ---
 
@@ -14,16 +40,6 @@ Atualmente, crio projetos sob a marca pessoal **[4Way Solution](https://4waysolu
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosdm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosdm&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
-</div>
-
----
-
-### Tecnologias que uso no dia a dia
-<div align="center">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"/>
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML"/>
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS"/>
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
 </div>
 
 ---
