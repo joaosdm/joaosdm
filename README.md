@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joaosdm/joaosdm/main/banner-jh.png" alt="JH Interactive Banner" width="100%" />
-  <!-- Nota: Se preferir usar o link direto do Drive para a logo, certifique-se de que a imagem esteja pública ou use um link direto compatível com Markdown -->
+  <img src="logo-jh.png" alt="JH Interactive Banner" width="100%" />
+  <!-- Dica: Coloque a sua imagem de logo na raiz do repositório joaosdm com o nome logo-jh.png -->
 </p>
 
 <h1 align="center">Olá, eu sou o João Henrique! 👋</h1>
@@ -43,10 +43,8 @@ Atualmente, concentro meus esforços criativos na **JH Interactive**, meu estúd
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <a href="https://github.com/joaosdm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosdm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosdm&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosdm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosdm&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
@@ -54,9 +52,9 @@ Atualmente, concentro meus esforços criativos na **JH Interactive**, meu estúd
 ### 🌐 Conecte-se Comigo
 <div align="center"> 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-henrique-137089316" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a> 
-  <a href="mailto:seu-email@exemplo.com" target="_blank">
-    <img src="https://img.shields.io/badge/-E-mail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://4waysolution.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </div>
