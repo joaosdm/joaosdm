@@ -37,13 +37,19 @@
 ### 📊 Atividade e Estatísticas no GitHub
 
 <div align="center">
-  <!-- Painel de Contribuições e Sequência (Streak) - Servidor estável -->
+  <!-- Painel de Contribuições e Sequência (Streak) -->
   <img src="https://streak-stats.demolab.com?user=joaosdm&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
   
   <br><br>
 
-  <!-- Gráfico de Atividade de Commits -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaosdm&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Gráfico de Atividade" />
+  <!-- Cartões de Linguagens e Estatísticas (Servidor estável) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaosdm&theme=tokyonight" alt="Top Linguagens" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaosdm&theme=tokyonight" alt="Estatísticas" />
+  
+  <br><br>
+  
+  <!-- Gráfico de Commits ao longo do tempo -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaosdm&theme=tokyonight" width="90%" alt="Detalhes do Perfil" />
 </div>
 
 ---
