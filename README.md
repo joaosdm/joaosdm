@@ -13,8 +13,8 @@
 
 ### 🚀 Sobre Mim
 - 💻 **Foco atual:** Desenvolvimento de jogos independentes (2D/3D) e aplicações full stack.
-- 🎓 **Formação & Interesses:** Análise e Desenvolvimento de Sistemas, Psicologia e Letras-Espanhol[cite: 7].
-- 🎮 **Estúdio:** Fundador da **Boolean Studio** — Code. Logic. Play![cite: 7].
+- 🎓 **Formação & Interesses:** Análise e Desenvolvimento de Sistemas, Psicologia e Letras-Espanhol.
+- 🎮 **Estúdio:** Fundador da **Boolean Studio** — Code. Logic. Play!.
 
 ---
 
