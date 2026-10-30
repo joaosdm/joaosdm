@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="JH%20Interactive%20Novo.png" alt="JH Interactive Logo" width="180px" />
+  <img src="Boolean%20Studio.png" alt="Boolean Studio" width="180px" />
 
   <h1>Olá, eu sou o João Henrique! 👋</h1>
 
   <!-- Animação de texto digitando -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Game+Developer+%40+JH+Interactive;Desenvolvedor+Full+Stack;Tecnologia+%2B+Psicologia+%2B+Jogos" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Game+Developer+%40+Boolean+Studio;Desenvolvedor+Full+Stack;Tecnologia+%2B+Psicologia+%2B+Jogos" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,7 +14,7 @@
 ### 🚀 Sobre Mim
 - 💻 **Foco atual:** Desenvolvimento de jogos independentes (2D/3D) e aplicações full stack.
 - 🎓 **Formação & Interesses:** Análise e Desenvolvimento de Sistemas, Psicologia e Letras-Espanhol[cite: 7].
-- 🎮 **Estúdio:** Fundador da **JH Interactive** — criando experiências interativas com identidade própria[cite: 7].
+- 🎮 **Estúdio:** Fundador da **Boolean Studio** — Code. Logic. Play![cite: 7].
 
 ---
 
